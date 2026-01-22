@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+table { background: yellow; border-collapse: collapse; }
+table, th, tr, td { border: 1px solid black; }
+th, td { padding: 4px 8px; }
+caption { font-weight: 600; margin-bottom: 6px; }
